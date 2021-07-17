@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.item_containers{
+  scroll-snap-type: y mandatory;
+  overflow: auto;
+  height: 100vh;
+}
+
